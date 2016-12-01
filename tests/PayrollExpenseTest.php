@@ -2,6 +2,11 @@
 
 use App\Console\Commands\PayrollDates;
 
+/**
+ * Class PayrollExpenseTest
+ *
+ * Tests the PayrollDates class logic
+ */
 class PayrollExpenseTest extends TestCase
 {
 

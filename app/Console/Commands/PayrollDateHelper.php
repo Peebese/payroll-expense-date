@@ -4,6 +4,12 @@ namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
 
+/**
+ * Class PayrollDateHelper
+ * Bass class for the PayrollDates class
+ *
+ * @package App\Console\Commands
+ */
 abstract class PayrollDateHelper extends Command
 {
     /**

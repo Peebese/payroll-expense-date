@@ -6,6 +6,13 @@ use App\Console\Commands;
 use Illuminate\Support\Facades\Storage;
 
 
+/**
+ * Class PayrollDates
+ * 
+ * Calculates Payroll and Expense dates for a given year
+ * 
+ * @package App\Console\Commands
+ */
 class PayrollDates extends PayrollDateHelper
 {
     /**
