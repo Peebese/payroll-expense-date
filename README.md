@@ -13,12 +13,14 @@ The data is written to a .txt file in JSON format.
 /--------------------------
 Format example
 ---------------------------/
+
 "Month Name", "1st expenses day", “2nd expenses day”, "Salary day" 
 
 
 /---------------------------
 Requirements
 ----------------------------/
+
 PHP 5.6
 
 To execute, run command in CLI: php artisan payroll:generate <year>
