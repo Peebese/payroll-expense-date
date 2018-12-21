@@ -1,5 +1,5 @@
-# payroll-expense-date
-Payroll and expense working day caluculation
+# Payroll Expense Date
+Payroll and expense working day calculation
 
 This is a CLI application which creates a payroll and expense calender.
 
